@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="340" viewBox="0 0 580 340" role="img" aria-labelledby="title desc">
+  <title id="title">Transaction Processing Service</title>
+  <desc id="desc">From event to account balance. A J.P. Morgan Forage project using Java, Spring Boot, Kafka, and JPA.</desc>
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#133333"/><stop offset="1" stop-color="#121825"/></linearGradient></defs>
+  <rect x="1" y="1" width="578" height="338" rx="18" fill="url(#bg)" stroke="#32534f"/>
+  <g fill="none" stroke="#55ddb9" stroke-width="2" opacity=".32">
+    <rect x="389" y="62" width="38" height="32" rx="7"/><rect x="451" y="62" width="38" height="32" rx="7"/>
+    <rect x="513" y="62" width="38" height="32" rx="7"/><path d="M427 78H451M489 78H513"/>
+    <path d="M400 78L406 84L417 72M462 78L468 84L479 72M524 78L530 84L541 72"/>
+  </g>
+  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif">
+    <text x="30" y="42" font-size="12" letter-spacing="2" fill="#7ce8cc">02 / EVENT-DRIVEN BACKEND</text>
+    <text x="30" y="117" font-size="33" font-weight="700" fill="#f2f4ff">Transaction Service</text>
+    <text x="30" y="167" font-size="23" font-weight="500" fill="#d2eee7">From event to account balance.</text>
+    <text x="30" y="209" font-size="17" fill="#acb5cb">Ingest. Validate. Persist. Query.</text>
+    <path d="M30 238H550" stroke="#32534f"/>
+    <text x="30" y="273" font-size="15" fill="#7ce8cc">Java · Spring Boot · Kafka · JPA</text>
+    <text x="30" y="311" font-size="14" fill="#7ce8cc">Explore repository →</text>
+    <text x="550" y="311" text-anchor="end" font-size="12" fill="#9aa8bd">J.P. Morgan Forage project</text>
+  </g>
+</svg>
